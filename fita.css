@@ -1,0 +1,141 @@
+.contact{
+    
+    background-color: rgb(100, 98, 98);
+    color:white;
+    padding-top: 6px;
+    height:40px;
+}
+
+.click{
+    padding-top: 20px; 
+}
+
+.logo{
+  padding-left: 10px;
+}
+
+.nav{
+  height: 80px;
+}
+.vertical-menu {
+    width: 100%;
+    padding: 15px;
+    
+  }
+  
+  .vertical-menu a {
+    background-color: white;
+    color: black;
+    display: inline-block;
+    padding: 12px;
+    text-decoration:none;
+    font-weight: 600;
+    
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+    
+  }
+  
+  .vertical-menu a.active {
+    background-color: white ;
+    
+  }
+
+  .centered {
+    position: absolute;
+    top: 40%;
+    left: 74%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .centered1 {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+  }
+
+  .text-block {
+    position: absolute;
+    bottom: 140px;
+    right: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .text-block button{
+    background-color: rgba(82, 48, 206, 0.689);  
+    width:50%;
+    border-radius: 15px;
+    color: white;
+    height: 50px;
+    
+ }
+
+ .content{
+     padding-top: 30px;
+     padding-left: 180px;
+     height: 700px;
+ }
+
+ .cont-left{
+  padding-top: 120px;
+  box-shadow: inset;
+}
+
+.box{
+  width: 350px;
+  height: 430px;
+  padding: 10px;
+  margin: 10px;
+  background-color:beige;
+  box-shadow: 5px 5px 5px 7px ;
+  
+}
+
+ .certi{
+     background-color: rgb(33, 33, 145); 
+     height:650px;
+     color:white;
+     padding-top: 30px;
+     padding-left: 80px;
+     padding-right: 80px;  
+ }
+
+ #footer{
+     background-color: rgb(37, 35, 35);
+     color:beige;
+     height: 300px;
+     padding-top: 20px;
+     padding-left: 190px;
+
+ }
+
+ .features{
+     padding-top: 30px;
+     text-align: center;
+     height:820px;
+     background-color: white;
+ }
+
+ .top{
+     padding-left: 200px; 
+     padding-right: 200px;
+ }
+
+ .about{
+     padding-left: 120px; 
+ }
+
+ .lap{
+     
+     height:40px;
+ }
+ 
+
+ 
+     
